@@ -1,0 +1,2226 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-07T10:50:56Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300467984",
+        "amenity": "school",
+        "created_by": "Potlatch 0.10c",
+        "name": "New Prince Higher Secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2029459,
+          12.9853147
+        ]
+      },
+      "id": "node/300467984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300468062",
+        "amenity": "school",
+        "created_by": "Potlatch 0.10d",
+        "name": "St. Marks School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.206505,
+          12.9868373
+        ]
+      },
+      "id": "node/300468062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312014519",
+        "amenity": "school",
+        "name": "Brilliant Matriculation School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.186583,
+          12.9704142
+        ]
+      },
+      "id": "node/312014519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312015795",
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Mowbray's Matriculation Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1894583,
+          12.985101
+        ]
+      },
+      "id": "node/312015795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325787792",
+        "amenity": "school",
+        "name": "Shri Sakthi Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2460833,
+          12.8861992
+        ]
+      },
+      "id": "node/325787792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/347356350",
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Balalok Matriculation Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1943992,
+          13.0542557
+        ]
+      },
+      "id": "node/347356350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/347362882",
+        "amenity": "school",
+        "name": "JaiGopal Garodia Girls High school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1967081,
+          13.0530994
+        ]
+      },
+      "id": "node/347362882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/417776186",
+        "amenity": "school",
+        "name": "Olcott Memorial HSS",
+        "name:etymology:wikidata": "Q442617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2677285,
+          13.0034528
+        ]
+      },
+      "id": "node/417776186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/459641978",
+        "amenity": "school",
+        "name": "LaClarence Matriculation Higher Secondary Schoolt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2036334,
+          13.0542712
+        ]
+      },
+      "id": "node/459641978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/459652832",
+        "amenity": "school",
+        "name": "Thai Sathia School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1981602,
+          13.0438348
+        ]
+      },
+      "id": "node/459652832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/473396856",
+        "amenity": "school",
+        "name": "Starlight Abacus School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2613841,
+          13.0074771
+        ]
+      },
+      "id": "node/473396856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/595657131",
+        "amenity": "school",
+        "name": "Chinmaya Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1937294,
+          13.060167
+        ]
+      },
+      "id": "node/595657131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/595735861",
+        "amenity": "school",
+        "name": "St. John's Matriculation Higher Secondary School",
+        "wikidata": "Q7588788",
+        "wikimedia_commons": "Category:St. John's Alwarthirunagar",
+        "wikipedia": "en:St. John's Matriculation Higher Secondary School Alwarthirunagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1873415,
+          13.0474865
+        ]
+      },
+      "id": "node/595735861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612546126",
+        "amenity": "school",
+        "name": "Kanmani Montessori School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2088301,
+          13.0735855
+        ]
+      },
+      "id": "node/612546126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/614436617",
+        "amenity": "school",
+        "name": "Ambal Metriculation School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2062046,
+          13.0734099
+        ]
+      },
+      "id": "node/614436617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/747616456",
+        "amenity": "school",
+        "name": "Akshaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2224844,
+          12.9787977
+        ]
+      },
+      "id": "node/747616456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/941467495",
+        "amenity": "school",
+        "name": "Kolla Perumal (KPVCSS)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2139192,
+          13.0745115
+        ]
+      },
+      "id": "node/941467495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1003378082",
+        "amenity": "school",
+        "name": "Bala Saravana Matriculation School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2104214,
+          12.9831591
+        ]
+      },
+      "id": "node/1003378082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1015578645",
+        "amenity": "school",
+        "name": "PSBB School",
+        "name:en": "Padma Seshadri Bala Bhavan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1996798,
+          13.0397071
+        ]
+      },
+      "id": "node/1015578645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1015585631",
+        "amenity": "school",
+        "name": "Sri Krishna Swamy Mat. Hr. Sec. School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1976842,
+          13.0382542
+        ]
+      },
+      "id": "node/1015585631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1044780333",
+        "amenity": "school",
+        "name": "German School Chennai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2606515,
+          12.9515892
+        ]
+      },
+      "id": "node/1044780333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1069491369",
+        "amenity": "school",
+        "name": "SSV Hr Sec School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2777394,
+          13.0885001
+        ]
+      },
+      "id": "node/1069491369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1069491576",
+        "amenity": "school",
+        "name": "AB Parekh Hr Sec School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2772191,
+          13.0883355
+        ]
+      },
+      "id": "node/1069491576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1127295227",
+        "amenity": "school",
+        "name": "Janaki Ramachandran Matriculation Scool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2143813,
+          13.0538146
+        ]
+      },
+      "id": "node/1127295227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1306385769",
+        "amenity": "school",
+        "name": "Amrita Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.189912,
+          13.0247563
+        ]
+      },
+      "id": "node/1306385769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1329321951",
+        "amenity": "school",
+        "name": "St Peters School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2024966,
+          12.9284826
+        ]
+      },
+      "id": "node/1329321951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1329326250",
+        "amenity": "school",
+        "name": "Bharatha Vidhyalaya School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2016416,
+          12.9079132
+        ]
+      },
+      "id": "node/1329326250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1329336746",
+        "amenity": "school",
+        "name": "Pallikarani Govt Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1982298,
+          12.9242267
+        ]
+      },
+      "id": "node/1329336746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1330443392",
+        "amenity": "school",
+        "name": "Asan Memorial College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2003719,
+          12.9253386
+        ]
+      },
+      "id": "node/1330443392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1446841958",
+        "amenity": "school",
+        "name": "Govt School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2028196,
+          13.0542995
+        ]
+      },
+      "id": "node/1446841958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1446842407",
+        "amenity": "school",
+        "name": "Barathi Vidayala School - Block 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2059776,
+          13.0543125
+        ]
+      },
+      "id": "node/1446842407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1446842408",
+        "amenity": "school",
+        "name": "Barathi Vidayala School - Block 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2061707,
+          13.0538945
+        ]
+      },
+      "id": "node/1446842408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1596154407",
+        "addr:housename": "41",
+        "addr:housenumber": "Sarathy Nagar",
+        "addr:postcode": "600045",
+        "alt_name": "LDS",
+        "amenity": "school",
+        "name": "Lets do Something - Activity center",
+        "source": "www.letsdosomething.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.221575,
+          12.9758373
+        ]
+      },
+      "id": "node/1596154407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1636170540",
+        "amenity": "school",
+        "name": "Pon Vidhyashram School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2155154,
+          12.9667572
+        ]
+      },
+      "id": "node/1636170540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1636171309",
+        "amenity": "school",
+        "name": "SAN Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2123879,
+          12.9757851
+        ]
+      },
+      "id": "node/1636171309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1653993044",
+        "amenity": "school",
+        "name": "Chinmaya Vidhyalaya, Anna Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2075894,
+          13.0916188
+        ]
+      },
+      "id": "node/1653993044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1672262615",
+        "amenity": "school",
+        "designation": "Higher Secondary School",
+        "name": "St.Johns English School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.266308,
+          13.0017
+        ]
+      },
+      "id": "node/1672262615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1760694106",
+        "addr:city": "Chennai",
+        "addr:housename": "Prince Matric Hr Sec School",
+        "addr:housenumber": "7",
+        "addr:postcode": "600091",
+        "addr:street": "Kannagi Street",
+        "amenity": "school",
+        "name": "Prince Matric Hr Sec School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1944308,
+          12.9694641
+        ]
+      },
+      "id": "node/1760694106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1760907465",
+        "amenity": "school",
+        "name": "Thandai Periyar Govt High School",
+        "name:etymology:wikidata": "Q737280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1970465,
+          12.9705025
+        ]
+      },
+      "id": "node/1760907465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1825978766",
+        "amenity": "school",
+        "name": "FES Matriculation Higher Secoundary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2515179,
+          13.1355943
+        ]
+      },
+      "id": "node/1825978766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1836798405",
+        "addr:housename": "New Prince Shri Bhavani Arts and Science College",
+        "addr:postcode": "600100",
+        "addr:street": "Sivagami Nagar",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1872129,
+          12.9156126
+        ]
+      },
+      "id": "node/1836798405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1926709450",
+        "addr:postcode": "600061",
+        "amenity": "school",
+        "name": "Jawaharlal Nehru Government Boys School",
+        "name:etymology:wikidata": "Q1047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1855109,
+          12.9862277
+        ]
+      },
+      "id": "node/1926709450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2053800293",
+        "amenity": "school",
+        "name": "Himayam Matric School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1945713,
+          12.9454618
+        ]
+      },
+      "id": "node/2053800293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059560611",
+        "addr:housename": "Jothi Nagar",
+        "addr:housenumber": "1",
+        "addr:postcode": "600097",
+        "addr:street": "Okkiyam Thuraipakkam",
+        "amenity": "school",
+        "name": "Dhanraj Baid Jain College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.239775,
+          12.9459767
+        ]
+      },
+      "id": "node/2059560611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2064178200",
+        "amenity": "school",
+        "name": "CL Baid Metha College Of Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2395863,
+          12.9456616
+        ]
+      },
+      "id": "node/2064178200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2071087259",
+        "amenity": "school",
+        "name": "CL Baid Metha College of Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2395755,
+          12.9456667
+        ]
+      },
+      "id": "node/2071087259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2071090050",
+        "amenity": "school",
+        "brand": "Cromā",
+        "brand:wikidata": "Q5187683",
+        "name": "CL Baid Sishya School;Cromā",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2404649,
+          12.9494627
+        ]
+      },
+      "id": "node/2071090050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2115851259",
+        "amenity": "school",
+        "name": "Vael's Bilabong School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2488853,
+          12.9215926
+        ]
+      },
+      "id": "node/2115851259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2117666024",
+        "amenity": "school",
+        "name": "KCG College of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2416769,
+          12.9214372
+        ]
+      },
+      "id": "node/2117666024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2117671390",
+        "addr:housename": "National Institute of Management Studies",
+        "amenity": "school",
+        "name": "National Institute of Management Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2410536,
+          12.9177981
+        ]
+      },
+      "id": "node/2117671390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2123575602",
+        "addr:street": "1st street",
+        "amenity": "school",
+        "name": "Chettinadu A School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2446878,
+          12.9530789
+        ]
+      },
+      "id": "node/2123575602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2124725682",
+        "amenity": "school",
+        "name": "Akshara School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2365085,
+          12.9334921
+        ]
+      },
+      "id": "node/2124725682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2124849459",
+        "addr:street": "Nehru nagar",
+        "amenity": "school",
+        "name": "YMCA SCHOOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2505858,
+          12.9766406
+        ]
+      },
+      "id": "node/2124849459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2124854755",
+        "addr:housename": "EVERONN HOUSE",
+        "addr:housenumber": "96-99",
+        "amenity": "school",
+        "name": "Global Institute Of Gaming And Animation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2482807,
+          12.9554398
+        ]
+      },
+      "id": "node/2124854755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2127107074",
+        "amenity": "school",
+        "name": "St.Pius school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2433123,
+          12.9647302
+        ]
+      },
+      "id": "node/2127107074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2210024243",
+        "amenity": "school",
+        "name": "Sithalapakkam Government High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1828607,
+          12.8961318
+        ]
+      },
+      "id": "node/2210024243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296733697",
+        "amenity": "school",
+        "name": "Dhanakoti Middle School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2720867,
+          13.0756063
+        ]
+      },
+      "id": "node/2296733697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296734281",
+        "amenity": "school",
+        "name": "Kalyanam Girls High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2722477,
+          13.0755096
+        ]
+      },
+      "id": "node/2296734281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296735136",
+        "amenity": "school",
+        "name": "Kalyanam Girls Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2719607,
+          13.0763065
+        ]
+      },
+      "id": "node/2296735136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296736065",
+        "amenity": "school",
+        "name": "Chintadripet Boys Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2732159,
+          13.075008
+        ]
+      },
+      "id": "node/2296736065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296739472",
+        "amenity": "school",
+        "name": "சென்னை மாநகராட்ச்சி பள்ளி-சிந்தாரிபேட்டை",
+        "name:en": "Corporation School - Chintadripet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2666606,
+          13.076586
+        ]
+      },
+      "id": "node/2296739472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296744654",
+        "amenity": "school",
+        "name": "Chintadripet Middle School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2678488,
+          13.0736154
+        ]
+      },
+      "id": "node/2296744654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296745323",
+        "amenity": "school",
+        "name": "Rao Bahadur Calavala Cunnan Chetty Middle School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2694716,
+          13.074522
+        ]
+      },
+      "id": "node/2296745323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2427727852",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2324195,
+          13.0350686
+        ]
+      },
+      "id": "node/2427727852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2728294977",
+        "amenity": "school",
+        "check_date": "2025-07-12",
+        "designation": "School",
+        "name": "Infant jesus high school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2045907,
+          12.9298318
+        ]
+      },
+      "id": "node/2728294977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2779907360",
+        "addr:city": "Chennai",
+        "addr:housenumber": "15",
+        "addr:postcode": "600034",
+        "addr:street": "Lake Area 1st Main Road",
+        "addr:suburb": "Nungambakkam",
+        "alt_name": "PSBB Junior College",
+        "amenity": "school",
+        "name": "Padma Seshadri Bala Bhavan Higher Secondary School",
+        "old_name": "PSBB",
+        "phone": "+91 44 2817 2459",
+        "source": "Bing Imagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2412002,
+          13.054758
+        ]
+      },
+      "id": "node/2779907360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3097012397",
+        "amenity": "school",
+        "name": "Chennai School (Corporation)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1978774,
+          12.926285
+        ]
+      },
+      "id": "node/3097012397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3149264021",
+        "addr:city": "Mugalivakkam",
+        "addr:postcode": "600116",
+        "addr:street": "Road in Mugalivakkam (to park and school)",
+        "amenity": "school",
+        "name": "St. Christopher Nursery And Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1692038,
+          13.02092
+        ]
+      },
+      "id": "node/3149264021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3397754749",
+        "addr:city": "Saidapet",
+        "addr:housenumber": "38",
+        "addr:postcode": "600015",
+        "addr:street": "Kavarai Street",
+        "amenity": "school",
+        "email": "dianaschoolds@gmail.com",
+        "name": "Diana Nursery & Primary School",
+        "operator": "Private",
+        "phone": "+91 98401 41553",
+        "website": "http://www.dianaschool.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2180065,
+          13.0231287
+        ]
+      },
+      "id": "node/3397754749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3998858427",
+        "amenity": "school",
+        "check_date": "2025-11-21",
+        "name": "தென் இந்திய இந்தி பரப்புரை கூட்டமைப்பு"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.238973,
+          13.0348934
+        ]
+      },
+      "id": "node/3998858427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4035159042",
+        "amenity": "school",
+        "name": "Soundara Pandiya Nadar School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2285669,
+          13.0977041
+        ]
+      },
+      "id": "node/4035159042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4090239218",
+        "amenity": "school",
+        "name": "Rajkumar Sulochana Matric Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1920857,
+          12.968849
+        ]
+      },
+      "id": "node/4090239218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4153810890",
+        "amenity": "school",
+        "name": "Oxford Matriculation Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2243406,
+          13.0286604
+        ]
+      },
+      "id": "node/4153810890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4290851202",
+        "amenity": "school",
+        "name": "PANIMALAR POLYTECHNIC COLLEGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2242291,
+          13.0679752
+        ]
+      },
+      "id": "node/4290851202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4294274187",
+        "amenity": "school",
+        "is_in": "Udhayam Nagar;Velachery;",
+        "name": "Chennai Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2320468,
+          12.9801464
+        ]
+      },
+      "id": "node/4294274187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4300667140",
+        "addr:suburb": "Velachery",
+        "amenity": "school",
+        "name": "Chennai Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.218948,
+          12.9852163
+        ]
+      },
+      "id": "node/4300667140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4351216397",
+        "addr:postcode": "600021",
+        "addr:street": "Thyagappa Street",
+        "amenity": "school",
+        "name": "RJR Middle School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2792156,
+          13.1185939
+        ]
+      },
+      "id": "node/4351216397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4377440092",
+        "amenity": "school",
+        "name": "Target soft solution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2334005,
+          13.0372385
+        ]
+      },
+      "id": "node/4377440092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4377440093",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2333714,
+          13.0371111
+        ]
+      },
+      "id": "node/4377440093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4383204790",
+        "addr:street": "new 31 (old 13) fourth cross street",
+        "amenity": "school",
+        "name": "KYM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.282892,
+          13.0784245
+        ]
+      },
+      "id": "node/4383204790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4411778295",
+        "amenity": "school",
+        "name:en": "siva sakthi matriculation higher secondary school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2184533,
+          12.9874465
+        ]
+      },
+      "id": "node/4411778295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421925894",
+        "addr:street": "Nungambakkam",
+        "amenity": "school",
+        "name:en": "Loyola college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2336977,
+          13.0654103
+        ]
+      },
+      "id": "node/4421925894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421948894",
+        "addr:street": "College Road",
+        "amenity": "school",
+        "name:en": "Womens Christian College (WCC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2491591,
+          13.0681334
+        ]
+      },
+      "id": "node/4421948894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447008637",
+        "addr:city": "Kanchipuram",
+        "addr:housenumber": "49",
+        "addr:postcode": "631502",
+        "addr:street": "K.P.K. Salai, Kanaga Durgai Nagar",
+        "amenity": "school",
+        "name": "Aathichudy Special School",
+        "phone": "+91 44 2726 4422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.252718,
+          13.0048641
+        ]
+      },
+      "id": "node/4447008637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447298329",
+        "addr:city": "Chennai",
+        "addr:housenumber": "46",
+        "addr:postcode": "600014",
+        "addr:street": "Venkatachalam St, Balaji Nagar, Royapettah",
+        "amenity": "school",
+        "name": "Gill Adarsh Matriculation Higher Secondary School",
+        "phone": "+91 44 2847 4808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2699958,
+          13.0502159
+        ]
+      },
+      "id": "node/4447298329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4450536979",
+        "amenity": "school",
+        "name": "St Antony School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.226075,
+          12.9767972
+        ]
+      },
+      "id": "node/4450536979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4604870491",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2431365,
+          13.1101564
+        ]
+      },
+      "id": "node/4604870491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4633798289",
+        "amenity": "school",
+        "name:en": "CSI Middle school Sembiam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2388201,
+          13.1128208
+        ]
+      },
+      "id": "node/4633798289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5320053509",
+        "addr:street": "வெங்கட் நாராயணா தெரு",
+        "amenity": "school",
+        "check_date": "2025-11-21",
+        "name": "செ.தெ நாயகம் தியாகராய நகர் மேனிலைப் பள்ளி",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2365642,
+          13.0361057
+        ]
+      },
+      "id": "node/5320053509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5332419164",
+        "addr:street": "Vettuvankeni",
+        "amenity": "school",
+        "name": "St. Joseph Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2528173,
+          12.938573
+        ]
+      },
+      "id": "node/5332419164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5336398867",
+        "addr:housenumber": "1",
+        "addr:street": "Thanthonni Amman Kovil Street",
+        "amenity": "school",
+        "name": "St. John Williams Matriculation School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2093113,
+          13.1031947
+        ]
+      },
+      "id": "node/5336398867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5346397021",
+        "addr:postcode": "6000 005",
+        "amenity": "school",
+        "name": "மணிஸ் நர்சரி மற்றும் பிரைமரி பள்ளி",
+        "name:en": "mani's nursery and primary school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2719053,
+          13.0557408
+        ]
+      },
+      "id": "node/5346397021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484076358",
+        "addr:street": "பகவந்தம் தெரு",
+        "amenity": "school",
+        "name": "குண்டூர் சுப்பையா பிள்ளை தி.நகர் பெண்கள் மேல் நிலைப்பள்ளி"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2374395,
+          13.0358756
+        ]
+      },
+      "id": "node/5484076358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5570545748",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2277188,
+          12.9853379
+        ]
+      },
+      "id": "node/5570545748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5875330425",
+        "addr:street": "5 th main road",
+        "amenity": "school",
+        "name": "Govt.Hr secondary school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2444728,
+          13.0278146
+        ]
+      },
+      "id": "node/5875330425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6036590821",
+        "addr:street": "Mounasamy Madam Street",
+        "amenity": "school",
+        "name": "Singaram Pillai Girls High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.208451,
+          13.1084682
+        ]
+      },
+      "id": "node/6036590821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6356479646",
+        "addr:street": "Giriappa Road",
+        "amenity": "school",
+        "name": "Bala Mandir Kamaraj Trust"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2465644,
+          13.0490522
+        ]
+      },
+      "id": "node/6356479646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7053805485",
+        "amenity": "school",
+        "name:en": "Primrose Schools"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.249499,
+          12.9097665
+        ]
+      },
+      "id": "node/7053805485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7136008687",
+        "amenity": "school",
+        "email": "npschennai@yahoo.com",
+        "fax": "+914428351974",
+        "name": "National Public School",
+        "phone": "+91 44 2835 1973",
+        "start_date": "1970",
+        "website": "https://www.npschennai.com/",
+        "wikidata": "Q6975121",
+        "wikipedia": "en:National Public School, Chennai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2581387,
+          13.0494342
+        ]
+      },
+      "id": "node/7136008687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7136010486",
+        "amenity": "school",
+        "name": "ஸ்ரீ சாரதா பள்ளி",
+        "name:en": "Sri Sarada Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2566304,
+          13.0499352
+        ]
+      },
+      "id": "node/7136010486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7136028385",
+        "amenity": "school",
+        "name": "D.A.V Boys Higher Secondary School",
+        "name:en": "D.A.V Boys Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2566442,
+          13.0502398
+        ]
+      },
+      "id": "node/7136028385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592381392",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2108108,
+          13.051694
+        ]
+      },
+      "id": "node/7592381392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7723762942",
+        "addr:city": "Chennai",
+        "addr:housenumber": "11",
+        "addr:postcode": "600018",
+        "addr:street": "Murrays Gate Road",
+        "amenity": "school",
+        "email": "peaceacademychennai@gmail.com",
+        "name": "Peace Academy Chennai",
+        "phone": "+91 72997 17700",
+        "religion": "muslim",
+        "website": "https://peaceacademy.in/info/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2563567,
+          13.039242
+        ]
+      },
+      "id": "node/7723762942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7930758686",
+        "addr:housenumber": "274",
+        "addr:postcode": "600097",
+        "addr:street": "4th St, near Cognizant TCO, Sri Sowdeswari Nagar, Oggiyamduraipakkam",
+        "amenity": "school",
+        "email": "communications.oistp@orchids.edu.in",
+        "name:en": "Orchids The International School Thoraipakkam",
+        "opening_hours": "Mo-Su 09:00-18:30",
+        "operator": "Orchids International School",
+        "phone": "6366412971",
+        "website": "https://www.orchidsinternationalschool.com/chennai-branches/thoraipakkam/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.228667,
+          12.9250033
+        ]
+      },
+      "id": "node/7930758686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8095515268",
+        "addr:street": "3A, Murugesan St, Pari Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",
+        "amenity": "school",
+        "name": "Manimegalai Vidhyalaya Nursery and Primary School",
+        "phone": "044 2474 0896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2114987,
+          13.0260311
+        ]
+      },
+      "id": "node/8095515268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096237707",
+        "addr:street": "New No 147, Old No 39, Bharathi St, Vasudevan Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",
+        "amenity": "school",
+        "name": "Seethalakshmi Vidhyalaya School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2068015,
+          13.0293598
+        ]
+      },
+      "id": "node/8096237707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096940514",
+        "addr:street": "No. 69, Division - 132, Zone - 9, Pillaiyar Koli Street, R.V. Nagar, Jawahar Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",
+        "amenity": "school",
+        "name": "Chennai High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2124208,
+          13.0294143
+        ]
+      },
+      "id": "node/8096940514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8100718329",
+        "addr:full": "No: 2, Pari Nagar, Cheran Street, Opp to Kasi Theatre & Near Indian Bank, Jafferkhanpet, Ashok Nagar, Chennai, Tamil Nadu 600083",
+        "amenity": "school",
+        "name": "Apple Kids International Pre School",
+        "phone": "+91 99404 42258",
+        "website": "http://applekids.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2091487,
+          13.0283513
+        ]
+      },
+      "id": "node/8100718329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8597345825",
+        "addr:city": "Chennai",
+        "addr:housenumber": "12",
+        "addr:postcode": "600091",
+        "addr:street": "Kannagi Street",
+        "amenity": "school",
+        "name": "Prince Srivari Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1942822,
+          12.969047
+        ]
+      },
+      "id": "node/8597345825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8597345826",
+        "addr:city": "Chennai",
+        "addr:housenumber": "9",
+        "addr:postcode": "600091",
+        "addr:street": "Kannagi Street",
+        "amenity": "school",
+        "name": "Shri Venkateshwara Highter Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1949092,
+          12.9694645
+        ]
+      },
+      "id": "node/8597345826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8669165865",
+        "amenity": "school",
+        "name": "Government Higher Secondary School",
+        "operator": "Government of Tamil Nadu",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1849511,
+          12.9689235
+        ]
+      },
+      "id": "node/8669165865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8669165867",
+        "amenity": "school",
+        "name": "Government Primary School",
+        "operator": "Government of Tamil Nadu",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1844534,
+          12.9688048
+        ]
+      },
+      "id": "node/8669165867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935540225",
+        "amenity": "school",
+        "name": "Satyamurthi high school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2464292,
+          13.0482979
+        ]
+      },
+      "id": "node/8935540225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9106660530",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2801127,
+          13.048451
+        ]
+      },
+      "id": "node/9106660530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920582502",
+        "amenity": "school",
+        "name": "Netaji Vidyalaya School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1928444,
+          12.9430359
+        ]
+      },
+      "id": "node/9920582502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9994034445",
+        "amenity": "school",
+        "name": "Government Higher secondary school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1309534,
+          13.0401285
+        ]
+      },
+      "id": "node/9994034445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11253282590",
+        "amenity": "school",
+        "name": "model school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2267708,
+          12.8948995
+        ]
+      },
+      "id": "node/11253282590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11805421003",
+        "amenity": "school",
+        "check_date": "2024-04-09",
+        "name": "C.S.I. Anderson Rajagopaul Girls Higher Secondary School",
+        "name:ta": "சி. எஸ். ஐ. ஆண்டர்சன் இராஜகோபால் பெண்கள் மேல்நிலைப் பள்ளி"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2892677,
+          13.0950602
+        ]
+      },
+      "id": "node/11805421003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11835034706",
+        "amenity": "school",
+        "name": "Venkatasubba Rao matrix Hr Secy School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2402338,
+          13.0501982
+        ]
+      },
+      "id": "node/11835034706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11848217940",
+        "amenity": "school",
+        "name": "Department of Computer science",
+        "operator": "Department of Higher Education",
+        "operator:type": "government",
+        "operator:wikidata": "Q5260332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2211671,
+          12.8738339
+        ]
+      },
+      "id": "node/11848217940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11848217941",
+        "amenity": "school",
+        "name": "Department of Electronics",
+        "operator": "Department of Higher Education",
+        "operator:type": "government",
+        "operator:wikidata": "Q5260332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2209903,
+          12.8739157
+        ]
+      },
+      "id": "node/11848217941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11848217942",
+        "amenity": "school",
+        "name": "Computer Science Laboratory",
+        "operator": "Department of Higher Education",
+        "operator:type": "government",
+        "operator:wikidata": "Q5260332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2208615,
+          12.8739625
+        ]
+      },
+      "id": "node/11848217942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11848217943",
+        "amenity": "school",
+        "name": "Department of Electrical & Electronics Engg.",
+        "operator": "Department of Higher Education",
+        "operator:type": "government",
+        "operator:wikidata": "Q5260332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2207237,
+          12.8739858
+        ]
+      },
+      "id": "node/11848217943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11848217944",
+        "amenity": "school",
+        "name": "Department of Mechanical Engg.",
+        "operator": "Department of Higher Education",
+        "operator:type": "government",
+        "operator:wikidata": "Q5260332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2203054,
+          12.8737589
+        ]
+      },
+      "id": "node/11848217944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11848217946",
+        "amenity": "school",
+        "name": "Machine Shop & Drawing Hall",
+        "operator": "Department of Higher Education",
+        "operator:type": "government",
+        "operator:wikidata": "Q5260332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2202971,
+          12.8739875
+        ]
+      },
+      "id": "node/11848217946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11848217947",
+        "amenity": "school",
+        "name": "Bio Medical Laboratory",
+        "operator": "Department of Higher Education",
+        "operator:type": "government",
+        "operator:wikidata": "Q5260332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2203513,
+          12.8741787
+        ]
+      },
+      "id": "node/11848217947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11917025570",
+        "amenity": "school",
+        "name:en": "The dance crew"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1918098,
+          12.9129483
+        ]
+      },
+      "id": "node/11917025570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12894184501",
+        "amenity": "school",
+        "name": "Zemcode Medical Coding Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1945578,
+          12.9156431
+        ]
+      },
+      "id": "node/12894184501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13390341655",
+        "amenity": "school",
+        "education": "school",
+        "instagram": "brightpathplayschool",
+        "mobile": "+919789815230",
+        "name": "BrightPath Play School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2149276,
+          12.96562
+        ]
+      },
+      "id": "node/13390341655"
+    }
+  ]
+}

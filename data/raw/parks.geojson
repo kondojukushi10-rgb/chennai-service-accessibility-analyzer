@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-07T10:55:58Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325200225",
+        "leisure": "park",
+        "name": "Alandur",
+        "name:ta": "ஆலந்தூர்"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1942837,
+          12.9943729
+        ]
+      },
+      "id": "node/325200225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/595661201",
+        "leisure": "park",
+        "name": "Natesan Park",
+        "name:ta": "நடேசன் பூங்கா"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1921416,
+          13.0578678
+        ]
+      },
+      "id": "node/595661201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1764136003",
+        "leisure": "park",
+        "name": "Government Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2149946,
+          12.9706821
+        ]
+      },
+      "id": "node/1764136003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2270331348",
+        "leisure": "park",
+        "name": "Panagal Park",
+        "name:ml": "പനഗൽ പാർക്ക്",
+        "name:ta": "பனகல் பூங்கா"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2332635,
+          13.0410311
+        ]
+      },
+      "id": "node/2270331348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4721759030",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1806607,
+          12.9811584
+        ]
+      },
+      "id": "node/4721759030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6711491593",
+        "addr:city": "Chennai",
+        "addr:postcode": "600042",
+        "addr:street": "Vijayanagar 1st Main Road",
+        "dog": "yes",
+        "leisure": "park",
+        "name": "Chennai Corporation Park",
+        "opening_hours": "Mo-Su 05:00-22:00",
+        "operator": "Chennai Corporation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2178529,
+          12.9759493
+        ]
+      },
+      "id": "node/6711491593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7602598775",
+        "leisure": "park",
+        "name": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2414517,
+          13.0668847
+        ]
+      },
+      "id": "node/7602598775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11505074825",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2339461,
+          13.1218717
+        ]
+      },
+      "id": "node/11505074825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12708033805",
+        "leisure": "park",
+        "name": "eswaran park",
+        "operator": "gcc",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2622542,
+          13.1316491
+        ]
+      },
+      "id": "node/12708033805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12998369782",
+        "leisure": "park",
+        "name": "சாலையோர பூங்கா",
+        "name:ta": "சாலையோர பூங்கா",
+        "operator": "சென்னை மாநகராட்சி",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2251225,
+          13.0151874
+        ]
+      },
+      "id": "node/12998369782"
+    }
+  ]
+}
