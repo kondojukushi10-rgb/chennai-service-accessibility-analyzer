@@ -7,7 +7,7 @@ def create_service_buffers(schools, hospitals, parks, roads):
     school_buffers["geometry"] = schools.buffer(1000)
 
     hospital_buffers = hospitals.copy()
-    hospital_buffers["geometry"] = hospitals.buffer(1000)
+    hospital_buffers["geometry"] = hospitals.buffer(2000)
 
     park_buffers = parks.copy()
     park_buffers["geometry"] = parks.buffer(1000)
