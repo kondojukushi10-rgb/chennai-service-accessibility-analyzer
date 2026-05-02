@@ -1,0 +1,16 @@
+Zone_name,combined_access_percentage,access_level,,,Zone No,Zone Name,Accessibility Score,Access Level
+KODAMBAKKAM,1,High,,,X,Kodambakkam,1,High
+TEYNAMPET,0.888,High,,,IX,Teynampet,0.888,High
+ANNA NAGAR,0.779,High,,,VIII,Anna Nagar,0.779,High
+ROYAPURAM,0.743,High,,,V,Royapuram,0.743,High
+ADYAR,0.707,High,,,XIII,Adyar,0.707,High
+ALANDUR,0.67,Medium,,,XII,Alandur,0.67,Medium
+THIRU-VI-KA NAGAR,0.651,Medium,,,VI,Thiru-Vi-Ka Nagar,0.651,Medium
+PERUNGUDI,0.633,Medium,,,XIV,Perungudi,0.633,Medium
+TONDIARPET,0.599,Medium,,,IV,Tondiarpet,0.599,Medium
+SOZHANGANALLUR,0.592,Medium,,,XV,Sozhanganallur,0.592,Medium
+VALASARAVAKKAM,0.427,Low,,,XI,Valasaravakkam,0.427,Low
+MADHAVARAM,0.193,Low,,,III,Madhavaram,0.193,Low
+AMBATTUR,0.125,Low,,,VII,Ambattur,0.125,Low
+THIRUVOTRIYUR,0.029,Low,,,I,Thiruvotriyur,0.029,Low
+MANALI,0,Low,,,II,Manali,0,Low
