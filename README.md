@@ -4,13 +4,6 @@ A GIS-based analytical pipeline to evaluate public service accessibility across 
 
 This project computes accessibility for essential services such as **schools, hospitals, and parks** by integrating buffer analysis, road network proximity, and zonal statistics to derive a **composite accessibility index**.
 
-## Project Maps
-
-## Final Accessibility Map
-
-<p align="center">
-  <img src="maps/accessibility_map.png" width="700">
-</p>
 ---
 
 ## 📌 Project Objective
@@ -165,6 +158,11 @@ Each zone contains:
 * Optional interactive maps using Leafmap/Folium
 * Static maps using Matplotlib for portability
 
+## Final Accessibility Map
+
+<p align="center">
+  <img src="maps/accessibility_map.png" width="700">
+</p>
 ---
 
 ## 💡 Key Insights
