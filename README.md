@@ -6,9 +6,6 @@ This project computes accessibility for essential services such as **schools, ho
 
 ## Project Maps
 
-### Chennai Service Accessibility Map
-![Accessibility Map](maps/accessibility_map.png)
-
 ## Final Accessibility Map
 
 <p align="center">
