@@ -4,6 +4,16 @@ A GIS-based analytical pipeline to evaluate public service accessibility across 
 
 This project computes accessibility for essential services such as **schools, hospitals, and parks** by integrating buffer analysis, road network proximity, and zonal statistics to derive a **composite accessibility index**.
 
+## Project Maps
+
+### Chennai Service Accessibility Map
+![Accessibility Map](maps/accessibility_map.png)
+
+## Final Accessibility Map
+
+<p align="center">
+  <img src="maps/accessibility_map.png" width="700">
+</p>
 ---
 
 ## 📌 Project Objective
